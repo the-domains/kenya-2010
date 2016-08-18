@@ -1,16 +1,16 @@
-typography_spectrum: 0.8703943993896246
+typography_spectrum: 0.5650229849852622
 color:
-  brandStrength: 0.261280186008662
-  lightness: 0.05015697912313044
-  saturation: 0.3780735090840608
-  rhythmicContrast: 0.5621038605459034
+  brandStrength: 0.4946197704412043
+  lightness: 0.0395195665769279
+  saturation: 0.4113205634057522
+  rhythmicContrast: 0.03687293827533722
   brandColors:
-    - '#000000'
-    - '#BB0000'
-    - '#006600'
-    - '#FFFFFF'
-    - '#EBC0C0'
-layout_spectrum: 0.3500721601303667
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+layout_spectrum: 0.8196064315270633
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e60c24b6-d94d-4af1-b1f0-5dca0894f30f.png
 name: Kenya 2010
