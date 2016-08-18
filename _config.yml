@@ -1,4 +1,3 @@
-layout_spectrum: 0.3500721601303667
 typography_spectrum: 0.8703943993896246
 color:
   brandStrength: 0.261280186008662
@@ -11,4 +10,6 @@ color:
     - '#006600'
     - '#FFFFFF'
     - '#EBC0C0'
+layout_spectrum: 0.3500721601303667
 name: Kenya 2010
+description: Childhood dream come true!
